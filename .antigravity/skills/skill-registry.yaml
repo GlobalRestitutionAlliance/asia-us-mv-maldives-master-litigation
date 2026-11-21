@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: maldivesian-restitution-roadmap-and-qsf-trust-execution
-  name: Maldivesian Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/maldivesian-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_mv_001
+    name: Maldives Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_002
+    name: Maldives Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_003
+    name: Maldives Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_004
+    name: Maldives Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_005
+    name: Maldives Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_006
+    name: Maldives Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_007
+    name: Maldives Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_008
+    name: Maldives Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_009
+    name: Maldives Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_010
+    name: Maldives Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_011
+    name: Maldives Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_012
+    name: Maldives Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_013
+    name: Maldives Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_014
+    name: Maldives Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_015
+    name: Maldives Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_016
+    name: Maldives Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_017
+    name: Maldives Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_018
+    name: Maldives Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_019
+    name: Maldives Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_020
+    name: Maldives Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_021
+    name: Maldives Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_022
+    name: Maldives Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_023
+    name: Maldives Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_024
+    name: Maldives Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_025
+    name: Maldives Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_026
+    name: Maldives Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_027
+    name: Maldives Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_028
+    name: Maldives Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_029
+    name: Maldives Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_030
+    name: Maldives Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_031
+    name: Maldives Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_032
+    name: Maldives Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_033
+    name: Maldives Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_034
+    name: Maldives Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_035
+    name: Maldives Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_036
+    name: Maldives Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_037
+    name: Maldives Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_038
+    name: Maldives Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_039
+    name: Maldives Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_040
+    name: Maldives Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_041
+    name: Maldives Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_042
+    name: Maldives Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_043
+    name: Maldives Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_044
+    name: Maldives Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_045
+    name: Maldives Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_046
+    name: Maldives Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_047
+    name: Maldives Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_048
+    name: Maldives Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_049
+    name: Maldives Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_050
+    name: Maldives Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_051
+    name: Maldives Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_052
+    name: Maldives Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_053
+    name: Maldives Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_054
+    name: Maldives Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_055
+    name: Maldives Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_056
+    name: Maldives Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_057
+    name: Maldives Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_058
+    name: Maldives Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_059
+    name: Maldives Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_060
+    name: Maldives Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_061
+    name: Maldives Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_062
+    name: Maldives Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_063
+    name: Maldives Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_064
+    name: Maldives Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_065
+    name: Maldives Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_066
+    name: Maldives Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_067
+    name: Maldives Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_068
+    name: Maldives Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_069
+    name: Maldives Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_070
+    name: Maldives Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_071
+    name: Maldives Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_072
+    name: Maldives Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_073
+    name: Maldives Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_074
+    name: Maldives Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_075
+    name: Maldives Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_076
+    name: Maldives Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_077
+    name: Maldives Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_078
+    name: Maldives Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_079
+    name: Maldives Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_080
+    name: Maldives Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_081
+    name: Maldives Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_082
+    name: Maldives Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_083
+    name: Maldives Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_084
+    name: Maldives Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_085
+    name: Maldives Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_086
+    name: Maldives Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_087
+    name: Maldives Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_088
+    name: Maldives Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_089
+    name: Maldives Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_090
+    name: Maldives Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_091
+    name: Maldives Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_092
+    name: Maldives Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_093
+    name: Maldives Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_094
+    name: Maldives Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_095
+    name: Maldives Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_096
+    name: Maldives Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_097
+    name: Maldives Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_098
+    name: Maldives Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_099
+    name: Maldives Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_100
+    name: Maldives Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_101
+    name: Maldives Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_102
+    name: Maldives Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_103
+    name: Maldives Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_104
+    name: Maldives Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_105
+    name: Maldives Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_106
+    name: Maldives Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_107
+    name: Maldives Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_108
+    name: Maldives Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_109
+    name: Maldives Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_110
+    name: Maldives Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_111
+    name: Maldives Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_112
+    name: Maldives Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_113
+    name: Maldives Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_114
+    name: Maldives Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_115
+    name: Maldives Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_116
+    name: Maldives Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_117
+    name: Maldives Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_118
+    name: Maldives Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_119
+    name: Maldives Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_120
+    name: Maldives Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_121
+    name: Maldives Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_122
+    name: Maldives Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_123
+    name: Maldives Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_124
+    name: Maldives Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_125
+    name: Maldives Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_126
+    name: Maldives Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_127
+    name: Maldives Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_128
+    name: Maldives Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_129
+    name: Maldives Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_130
+    name: Maldives Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_131
+    name: Maldives Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_132
+    name: Maldives Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_133
+    name: Maldives Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_134
+    name: Maldives Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_135
+    name: Maldives Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_136
+    name: Maldives Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_137
+    name: Maldives Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_138
+    name: Maldives Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_139
+    name: Maldives Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_140
+    name: Maldives Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_141
+    name: Maldives Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_142
+    name: Maldives Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_143
+    name: Maldives Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_144
+    name: Maldives Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_145
+    name: Maldives Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_146
+    name: Maldives Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_147
+    name: Maldives Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_148
+    name: Maldives Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_149
+    name: Maldives Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_150
+    name: Maldives Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_151
+    name: Maldives Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_152
+    name: Maldives Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_153
+    name: Maldives Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_154
+    name: Maldives Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_155
+    name: Maldives Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_156
+    name: Maldives Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_157
+    name: Maldives Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_158
+    name: Maldives Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_159
+    name: Maldives Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_160
+    name: Maldives Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_161
+    name: Maldives Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_162
+    name: Maldives Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_163
+    name: Maldives Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_164
+    name: Maldives Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_165
+    name: Maldives Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_166
+    name: Maldives Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_167
+    name: Maldives Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_168
+    name: Maldives Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_169
+    name: Maldives Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_170
+    name: Maldives Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_171
+    name: Maldives Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_172
+    name: Maldives Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_173
+    name: Maldives Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_174
+    name: Maldives Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_175
+    name: Maldives Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_176
+    name: Maldives Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_177
+    name: Maldives Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_178
+    name: Maldives Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_179
+    name: Maldives Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_180
+    name: Maldives Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_181
+    name: Maldives Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_182
+    name: Maldives Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_183
+    name: Maldives Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_184
+    name: Maldives Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_185
+    name: Maldives Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_186
+    name: Maldives Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_187
+    name: Maldives Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_188
+    name: Maldives Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_189
+    name: Maldives Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_190
+    name: Maldives Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_191
+    name: Maldives Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_192
+    name: Maldives Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_193
+    name: Maldives Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_194
+    name: Maldives Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_195
+    name: Maldives Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_196
+    name: Maldives Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_197
+    name: Maldives Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_198
+    name: Maldives Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_199
+    name: Maldives Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_200
+    name: Maldives Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_201
+    name: Maldives Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_202
+    name: Maldives Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_203
+    name: Maldives Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_204
+    name: Maldives Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_205
+    name: Maldives Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_206
+    name: Maldives Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_207
+    name: Maldives Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_208
+    name: Maldives Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_209
+    name: Maldives Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_210
+    name: Maldives Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_211
+    name: Maldives Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_212
+    name: Maldives Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_213
+    name: Maldives Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_214
+    name: Maldives Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_215
+    name: Maldives Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_216
+    name: Maldives Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_217
+    name: Maldives Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_218
+    name: Maldives Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_219
+    name: Maldives Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_220
+    name: Maldives Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_221
+    name: Maldives Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_222
+    name: Maldives Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_223
+    name: Maldives Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_224
+    name: Maldives Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_225
+    name: Maldives Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_226
+    name: Maldives Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_227
+    name: Maldives Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_228
+    name: Maldives Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_229
+    name: Maldives Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_230
+    name: Maldives Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_231
+    name: Maldives Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_232
+    name: Maldives Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_233
+    name: Maldives Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_234
+    name: Maldives Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_235
+    name: Maldives Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_236
+    name: Maldives Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_237
+    name: Maldives Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_238
+    name: Maldives Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_239
+    name: Maldives Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_240
+    name: Maldives Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_241
+    name: Maldives Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_242
+    name: Maldives Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_243
+    name: Maldives Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_244
+    name: Maldives Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_245
+    name: Maldives Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_246
+    name: Maldives Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_247
+    name: Maldives Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_248
+    name: Maldives Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_249
+    name: Maldives Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_250
+    name: Maldives Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_251
+    name: Maldives Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mv_252
+    name: Maldives Skill 252
+    status: ACTIVE_SCAFFOLD

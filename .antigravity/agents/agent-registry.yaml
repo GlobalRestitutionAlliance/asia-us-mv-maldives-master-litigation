@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-maldives-canal-and-intervention-historian
-  name: Maldives Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-maldives-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_mv_001
+    name: Maldives Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_002
+    name: Maldives Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_003
+    name: Maldives Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_004
+    name: Maldives Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_005
+    name: Maldives Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_006
+    name: Maldives Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_007
+    name: Maldives Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_008
+    name: Maldives Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_009
+    name: Maldives Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_010
+    name: Maldives Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_011
+    name: Maldives Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_012
+    name: Maldives Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_013
+    name: Maldives Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_014
+    name: Maldives Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_015
+    name: Maldives Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_016
+    name: Maldives Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_017
+    name: Maldives Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_018
+    name: Maldives Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_019
+    name: Maldives Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_020
+    name: Maldives Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_021
+    name: Maldives Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_022
+    name: Maldives Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_023
+    name: Maldives Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_024
+    name: Maldives Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_025
+    name: Maldives Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_026
+    name: Maldives Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_027
+    name: Maldives Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_028
+    name: Maldives Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_029
+    name: Maldives Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_030
+    name: Maldives Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_031
+    name: Maldives Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_032
+    name: Maldives Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_033
+    name: Maldives Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_034
+    name: Maldives Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_035
+    name: Maldives Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_036
+    name: Maldives Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_037
+    name: Maldives Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_038
+    name: Maldives Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_039
+    name: Maldives Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_040
+    name: Maldives Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_041
+    name: Maldives Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_042
+    name: Maldives Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_043
+    name: Maldives Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_044
+    name: Maldives Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_045
+    name: Maldives Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_046
+    name: Maldives Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_047
+    name: Maldives Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_048
+    name: Maldives Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_049
+    name: Maldives Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_050
+    name: Maldives Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_051
+    name: Maldives Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_052
+    name: Maldives Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_053
+    name: Maldives Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_054
+    name: Maldives Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_055
+    name: Maldives Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_056
+    name: Maldives Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_057
+    name: Maldives Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_058
+    name: Maldives Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_059
+    name: Maldives Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_060
+    name: Maldives Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_061
+    name: Maldives Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_062
+    name: Maldives Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_063
+    name: Maldives Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_064
+    name: Maldives Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_065
+    name: Maldives Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_066
+    name: Maldives Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_067
+    name: Maldives Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_068
+    name: Maldives Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_069
+    name: Maldives Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_070
+    name: Maldives Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_071
+    name: Maldives Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_072
+    name: Maldives Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_073
+    name: Maldives Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_074
+    name: Maldives Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_075
+    name: Maldives Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_076
+    name: Maldives Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_077
+    name: Maldives Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_078
+    name: Maldives Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_079
+    name: Maldives Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_080
+    name: Maldives Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_081
+    name: Maldives Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_082
+    name: Maldives Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_083
+    name: Maldives Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_084
+    name: Maldives Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_085
+    name: Maldives Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_086
+    name: Maldives Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_087
+    name: Maldives Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_088
+    name: Maldives Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_089
+    name: Maldives Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_090
+    name: Maldives Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_091
+    name: Maldives Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_092
+    name: Maldives Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_093
+    name: Maldives Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_094
+    name: Maldives Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_095
+    name: Maldives Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_096
+    name: Maldives Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_097
+    name: Maldives Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_098
+    name: Maldives Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_099
+    name: Maldives Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_100
+    name: Maldives Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_101
+    name: Maldives Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_102
+    name: Maldives Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_103
+    name: Maldives Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_104
+    name: Maldives Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_105
+    name: Maldives Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_106
+    name: Maldives Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_107
+    name: Maldives Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_108
+    name: Maldives Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_109
+    name: Maldives Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_110
+    name: Maldives Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_111
+    name: Maldives Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_112
+    name: Maldives Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_113
+    name: Maldives Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_114
+    name: Maldives Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_115
+    name: Maldives Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_116
+    name: Maldives Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_117
+    name: Maldives Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_118
+    name: Maldives Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_119
+    name: Maldives Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_120
+    name: Maldives Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_121
+    name: Maldives Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_122
+    name: Maldives Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_123
+    name: Maldives Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_124
+    name: Maldives Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_125
+    name: Maldives Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_126
+    name: Maldives Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_127
+    name: Maldives Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_128
+    name: Maldives Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_129
+    name: Maldives Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_130
+    name: Maldives Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_131
+    name: Maldives Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_132
+    name: Maldives Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_133
+    name: Maldives Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_134
+    name: Maldives Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_135
+    name: Maldives Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_136
+    name: Maldives Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_137
+    name: Maldives Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_138
+    name: Maldives Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_139
+    name: Maldives Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_140
+    name: Maldives Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_141
+    name: Maldives Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_142
+    name: Maldives Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_143
+    name: Maldives Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_144
+    name: Maldives Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_145
+    name: Maldives Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_146
+    name: Maldives Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_147
+    name: Maldives Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_148
+    name: Maldives Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_149
+    name: Maldives Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_150
+    name: Maldives Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_151
+    name: Maldives Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_152
+    name: Maldives Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_153
+    name: Maldives Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_154
+    name: Maldives Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_155
+    name: Maldives Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_156
+    name: Maldives Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_157
+    name: Maldives Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_158
+    name: Maldives Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_159
+    name: Maldives Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_160
+    name: Maldives Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_161
+    name: Maldives Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_162
+    name: Maldives Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_163
+    name: Maldives Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_164
+    name: Maldives Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_165
+    name: Maldives Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_166
+    name: Maldives Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_167
+    name: Maldives Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_168
+    name: Maldives Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_169
+    name: Maldives Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mv_170
+    name: Maldives Agent 170
+    status: ACTIVE_SCAFFOLD
