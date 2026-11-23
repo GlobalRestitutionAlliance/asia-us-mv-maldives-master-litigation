@@ -1,0 +1,17 @@
+{
+  "url": "https://www.hrw.org/asia/maldives",
+  "final_url": "https://www.hrw.org/asia/maldives",
+  "title": "HRW - Maldives",
+  "fetched_at": "2026-11-23T15:25:36.388629Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 188041,
+  "sha256": "5e04e94b720f73bc9eff0eeee448d1824db6fb5bf5fb526874c83ceaecb1f795",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}

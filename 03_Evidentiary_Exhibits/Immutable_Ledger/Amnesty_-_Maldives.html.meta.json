@@ -1,0 +1,17 @@
+{
+  "url": "https://www.amnesty.org/en/location/asia-and-the-pacific/south-asia/maldives/",
+  "final_url": "https://www.amnesty.org/en/location/asia-and-the-pacific/south-asia/maldives/",
+  "title": "Amnesty - Maldives",
+  "fetched_at": "2026-11-23T15:25:37.120754Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 103172,
+  "sha256": "967179e58bad5afff80460c719d7c4d52af6e791a48f6c734cd1ae2d6b7a40f5",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
